@@ -8,11 +8,11 @@
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-Frontend developer from Switzerland, building websites since 2015. Currently working in Vevey at [Marvelous Digital](https://www.marvelous.digital/).
+Frontend developer from Bulle, Switzerland. Building websites since 2015, as a fullstack developer with a focus on the frontend side of things.
 
----
+Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch)
 
-**Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch)**
+Currently working at [Marvelous Digital](https://www.marvelous.digital/) in Vevey.
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.miller147@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-miller-671589a3/)
