@@ -1,16 +1,3 @@
-# Hi, I'm Thomas
-
-Frontend developer from Switzerland, building websites since 2015. Currently working in Vevey at [Marvelous Digital](https://www.marvelous.digital/).
-
-## Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch)
-
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.miller147@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-miller-671589a3/)
-
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meuss&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-## ❤️ Favorite stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,8 +8,22 @@ Frontend developer from Switzerland, building websites since 2015. Currently wor
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+Frontend developer from Switzerland, building websites since 2015. Currently working in Vevey at [Marvelous Digital](https://www.marvelous.digital/).
 
-### And some other daily tools
+---
+
+**Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch)**
+
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.miller147@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-miller-671589a3/)
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meuss&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### Other tools
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
