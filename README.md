@@ -4,9 +4,8 @@ Frontend developer from Switzerland, building websites since 2015. Currently wor
 
 ## Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.miller147@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-miller-671589a3/)
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meuss&theme=dark&hide_border=true)](https://git.io/streak-stats)
