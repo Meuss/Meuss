@@ -19,10 +19,6 @@ Currently working at [Marvelous Digital](https://www.marvelous.digital/) in Veve
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meuss&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ### Other tools
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
