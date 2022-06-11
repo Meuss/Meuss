@@ -8,7 +8,7 @@
 
 Frontend developer from Bulle, Switzerland. Building websites since 2015, as a fullstack developer with a focus on the frontend side of things.
 
-Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch)
+Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch) (currently rebuilding)
 
 Currently working at [Marvelous Digital](https://www.marvelous.digital/) in Vevey.
 
