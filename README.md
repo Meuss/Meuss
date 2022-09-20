@@ -3,12 +3,12 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 Frontend developer from Bulle, Switzerland. Building websites since 2015, as a fullstack developer with a focus on the frontend side of things.
 
-Portfolio 👉 [thomasmiller.ch](https://thomasmiller.ch) (needs an update)
+👉 [thomasmiller.ch](https://thomasmiller.ch)
 
 Currently working at [Marvelous Digital](https://www.marvelous.digital/) in Vevey.
 
