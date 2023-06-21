@@ -31,7 +31,7 @@ Currently working hard at [Format-Z](https://www.format-z.ch/) and [macmac](http
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Meuss&theme=blue-green)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=Meuss&theme=blue-green) -->
 
 <!-- ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) -->
 <!-- ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) -->
