@@ -4,7 +4,7 @@
 
 👉 [thomasmiller.ch](https://thomasmiller.ch)
 
-Currently working hard at [Format-Z](https://www.format-z.ch/) and [macmac](https://macmac.ch/)
+Currently working hard at [Marvelous Digital](https://marvelous.digital/) and [macmac](https://macmac.ch/)
 
 <!-- Badges here: https://github.com/Envoy-VC/awesome-badges -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,8 +33,3 @@ Currently working hard at [Format-Z](https://www.format-z.ch/) and [macmac](http
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=Meuss&theme=blue-green) -->
-
-<!-- ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) -->
-<!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
-<!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) -->
